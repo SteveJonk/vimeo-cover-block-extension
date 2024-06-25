@@ -1,0 +1,1 @@
+.wp-block-cover{overflow:hidden;position:relative}.wp-block-cover iframe{height:100vh;left:50%;position:absolute;top:50%;transform:translate(-50%,-50%);width:100vw}@media(min-aspect-ratio:16/9){.wp-block-cover iframe{height:56.25vw}}@media(max-aspect-ratio:16/9){.wp-block-cover iframe{width:177.78vh}}
